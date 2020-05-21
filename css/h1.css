@@ -1,0 +1,92 @@
+.navbar-brand{
+  font-size:250%; 
+  color:#FFFFFF;
+}
+
+.navbar-right a{
+ font-size:170%;
+}
+
+.container-fluid{
+ padding:1%;
+}
+
+h1{
+   font-size:270%;
+    text-align:center;
+    color:#000000;
+}
+.home p{
+  font-size:150%;
+   text-align:center;
+   color:#000000;
+}
+.home{
+ margin:5% 10%;
+}
+.home ul li{
+  font-size:130%;
+  color:#000000;
+}
+.home a{
+  color:#000000; 
+}
+.html1 img{
+  display:block;
+  width:130%;
+  height:120%;
+}
+.html1{
+ width:20%;
+ margin-left:6%;
+}
+.html2{
+  font-size:130%;
+ width:60%;
+}
+.html1,.html2{
+  display:inline-block;
+  float:left;
+  margin:2% 4%;
+}
+.cs{
+ margin:2% 10%;
+ font-size:130%; 
+}
+.row img{
+  width:30%;
+  height:35%;
+  margin:1%;
+}
+.row img:hover{
+    width:32%;
+}
+.javascript p{
+   font-size:130%;
+}
+.response p{
+  font-size:140%;
+  margin:1% 2%; 
+}
+.response i{
+  margin:1% 2%;
+}
+.response h2{
+   font-family:cursive;
+}
+.response .row{
+ color: #e67300;
+}
+footer{
+  text-align:center;
+  background-color:#FFFFFF;
+  font-size:130%;
+  padding:1%;
+}
+p a{
+  color: #e65c00; 
+}
+p a:hover{
+    text-decoration:none;
+    color:#e65c00;
+}
